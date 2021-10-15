@@ -1,0 +1,80 @@
+# Copyright (C) 2021 Molly Duggan Associates
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clear Pantheon et-cache 0.0.1\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/clear-pantheon-et-cache\n"
+"POT-Creation-Date: 2016-10-18 15:26:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Clear Pantheon et-cache"
+msgstr ""
+
+#: include/main-class.php:54
+msgid "Clear Pantheon et-cache Main"
+msgstr ""
+
+#: include/main-class.php:57
+msgid "General"
+msgstr ""
+
+#: include/main-class.php:60
+msgid "Plugin Support Page"
+msgstr ""
+
+#: include/main-class.php:60
+msgid "Support"
+msgstr ""
+
+#: include/main-class.php:110
+msgid ""
+"Welcome to Clear Pantheon et-cache plugin – the fastest way to clear the et-cache folder typically located at Pantheon~/files/uploads/et-cache"
+msgstr ""
+
+#: include/main-class.php:136
+msgid "Plugin Starter Support"
+msgstr ""
+
+#: include/main-class.php:139
+msgid "Please report this information when requesting support via mail."
+msgstr ""
+
+#: include/main-class.php:147
+msgid "Plugin author:"
+msgstr ""
+
+#: include/main-class.php:155
+msgid "Active theme %s version: %s"
+msgstr ""
+
+#: include/main-class.php:163
+msgid "PHP version:"
+msgstr ""
+
+#: include/main-class.php:164
+msgid "MySQL version:"
+msgstr ""
+
+#: include/main-class.php:165
+msgid "WordPress version:"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The fastest way to clear the et-cache folder typically located at Pantheon~/files/uploads/et-cache"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Molly Duggan Associates"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://support.mollyduggan.com"
+msgstr ""
