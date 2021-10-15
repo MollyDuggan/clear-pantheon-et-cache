@@ -72,7 +72,7 @@ While in watch mode all the files in `assets/src` folder and sub-folders will be
 
 ### Development
 
-Go inside the project folder and install his dependencies by typing:
+Go inside the project folder and install dependencies by typing:
 
 ```bash
 npm install
