@@ -6,12 +6,12 @@
  * @package    clear-pantheon-et-cache
  * @author     Molly Duggan Associates <support.mollyduggan.com>
  * @copyright  2021 Molly Duggan Associates
- * @link       https://wordpress.org/plugins/clear-pantheon-et-cache/
+ * @link       https://github.com/MollyDuggan/clear-pantheon-et-cache/
  * @license     GPL-2.0+
  *
  * @wordpress-plugin
  * Plugin Name:  Clear Pantheon et-cache
- * Plugin URI:   https://wordpress.org/plugins/clear-pantheon-et-cache/
+ * Plugin URI:   https://github.com/MollyDuggan/clear-pantheon-et-cache/
  * Description:  Manually purge the Pantheon~/files/uploads/et-cache directory
  * Author:       Molly Duggan Associates, Erik Cochran, Chris McIntosh
  * Author URI:   https://support.mollyduggan.com
