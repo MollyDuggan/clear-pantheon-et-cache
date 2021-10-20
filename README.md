@@ -10,6 +10,7 @@ It depends on __grunt__ to create a fast and well organized working environment.
 ### Why would you want to use this plugin?
 It's a last resort when you've tried the following tests and you're still not seeing results.
 
++ Disable Dynamic CSS at Divi > Theme Options > General > Performance and click to disable Dynamic CSS.
 + Be sure that your Divi parent theme is using the latest version. **Appearance** > **Themes**.
 + Go to [Pantheon WordPress Plugins and Themes with Known Issues](https://pantheon.io/docs/plugins-known-issues) for [Divi WordPress Theme & Visual Page Builder](https://pantheon.io/docs/plugins-known-issues#divi-wordpress-theme--visual-page-builder) issues and follow Issue #1 > Solution #1 and #2, and Issue #2 > Solution(first solution).
 + Added the following lines to the Divi-child theme functions.php. 
