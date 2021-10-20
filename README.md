@@ -1,5 +1,5 @@
 # clear-pantheon-et-cache
-The fastest way to clear the et-cache folder typically located at Pantheon~/files/uploads/et-cache.
+The fastest way to clear the et-cache folder typically located at Pantheon~/files/et-cache. Pantheon's ~/files folder is an aliasfor ~/wp-content/uploads.
 
 ### What it does?
 This project is designed to delete contents of the et-cache folder.
